@@ -18,3 +18,13 @@ C:\Users\arjun\OneDrive\桌面\程式練習\程式練習\棋盤遊戲\obj\Debug\
 C:\Users\arjun\OneDrive\桌面\程式練習\程式練習\棋盤遊戲\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
 C:\Users\arjun\OneDrive\桌面\程式練習\程式練習\棋盤遊戲\obj\Debug\WindowsFormsApp10.exe
 C:\Users\arjun\OneDrive\桌面\程式練習\程式練習\棋盤遊戲\obj\Debug\WindowsFormsApp10.pdb
+E:\GitHub\goBang\bin\Debug\WindowsFormsApp10.exe.config
+E:\GitHub\goBang\bin\Debug\WindowsFormsApp10.exe
+E:\GitHub\goBang\bin\Debug\WindowsFormsApp10.pdb
+E:\GitHub\goBang\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+E:\GitHub\goBang\obj\Debug\WindowsFormsApp10.Form1.resources
+E:\GitHub\goBang\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+E:\GitHub\goBang\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+E:\GitHub\goBang\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+E:\GitHub\goBang\obj\Debug\WindowsFormsApp10.exe
+E:\GitHub\goBang\obj\Debug\WindowsFormsApp10.pdb
